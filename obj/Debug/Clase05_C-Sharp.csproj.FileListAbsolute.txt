@@ -1,0 +1,6 @@
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase005_VectorBi\bin\Debug\Clase005_VectorBi.exe.config
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase005_VectorBi\bin\Debug\Clase005_VectorBi.exe
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase005_VectorBi\bin\Debug\Clase005_VectorBi.pdb
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase005_VectorBi\obj\Debug\Clase005_VectorBi.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase005_VectorBi\obj\Debug\Clase005_VectorBi.exe
+C:\Users\Administrateur\documents\visual studio 2015\Projects\Clase001\Clase005_VectorBi\obj\Debug\Clase005_VectorBi.pdb
